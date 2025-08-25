@@ -5,3 +5,4 @@ Notes and usage details for Douyin-Smart-Feed-Assistant.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
